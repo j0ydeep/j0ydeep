@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @j0ydeep
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Node, Express and MongoDB
+- 🌱 I’m currently learning Next js, Typescript and Node js
 - 💞️ I’m looking to collaborate on open source full stack Next js and Typescript projects
 
 <!---
