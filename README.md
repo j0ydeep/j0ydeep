@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j0ydeep
+- 👋 Hi, I’m @joydeep-digitalwoods
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning Next js, Typescript and Node js
 - 💞️ I’m looking to collaborate on open source full stack Next js and Typescript projects
